@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Coding on anything I need  
+- 🔭 I’m currently working on Big Data and IoT
+- 💬 Ask me about Big Data and Kubernetes
+- 📫 How to reach me: [zjy71055@gmail.com](mailto:zjy71055@gmail.com)
+
+[![History](https://codestats-readme.vercel.app/api/history/?username=canghai118&layout=horizontal)](https://github.com/canghai118)
+
 <!--
 **canghai118/canghai118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
