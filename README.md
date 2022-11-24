@@ -5,7 +5,7 @@ Coding on anything I need
 - 💬 Ask me about Big Data and Kubernetes
 - 📫 How to reach me: [zjy71055@gmail.com](mailto:zjy71055@gmail.com)
 
-[![History](https://codestats-readme.vercel.app/api/history/?username=canghai118&layout=horizontal)](https://github.com/canghai118)
+[![History](https://codestats-readme-swart.vercel.app/api/history/?username=canghai118&layout=horizontal)](https://github.com/canghai118)
 
 <!--
 **canghai118/canghai118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
