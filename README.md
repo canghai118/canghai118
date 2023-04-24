@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Coding on anything I need  
-- 🔭 I’m currently working on Big Data and IoT
+- 🔭 I’m currently working on Big Data <del>and IoT</de>
 - 💬 Ask me about Big Data and Kubernetes
 - 📫 How to reach me: [zjy71055@gmail.com](mailto:zjy71055@gmail.com)
 
