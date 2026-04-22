@@ -1,23 +1,13 @@
-### Hi there 👋
+### hi, I'm Jeff
 
-Coding on anything I need  
-- 🔭 I’m currently working on Big Data <del>and IoT</de>
-- 💬 Ask me about Big Data and Kubernetes
-- 📫 How to reach me: [zjy71055@gmail.com](mailto:zjy71055@gmail.com)
+  **Workflow** — Claude Code + tmux + lots of tokens.
 
-[![History](https://codestats-readme-swart.vercel.app/api/history/?username=canghai118&layout=horizontal)](https://codestats.net/users/canghai118)
+  **Stack** — TypeScript · Vue/Nuxt · Go · Cloudflare Workers · PostgreSQL. Comfortable anywhere between the browser and bare metal.
 
-<!--
-**canghai118/canghai118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **Currently** working on [feedlog.ai](https://feedlog.ai) — an open-source feedback platform.
 
-Here are some ideas to get you started:
+  **Elsewhere** — [@lastz321](https://x.com/lastz321) on X.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Open to** — feedback on FeedLog, war stories about agent workflows, and good tmux tricks.
+
+  <sub>Been coding since 2013. Agents type faster now.</sub>
